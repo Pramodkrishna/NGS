@@ -1,0 +1,5 @@
+The SRR.fastq file is downloaded from the website http://www.ebi.ac.uk/ena/data/view/SRR494011
+I have absolutely no idea what it is or what it refers to, I only downloaded it cause it was 40 MB and thats easy for analysis. 
+Since this is a fastq file, we will try to perform analysis by implementing QC methods and then alignment with either a reference genome or other fastq files. 
+Scope of this experiment is to get hands on experience in data wrangling and familiarity with biopython .
+
